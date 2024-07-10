@@ -10,7 +10,7 @@
 
 #define PORT 8080
 #define BUFFER_SIZE 1024
-#define IPADDR "127.0.0.1"
+#define IPADDR "192.168.56.102"
 
 typedef struct {
     long msg_type;
